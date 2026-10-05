@@ -52,11 +52,11 @@ Make sure you have installed the runtime environments or compilers required for 
 ## 📁 Suggested Folder Hierarchy
 
 ```text
-School-Projects/
-├── Blood Bank/
+School-Projects
+├── Blood Bank
 │   └── BloodData.java
 │   └── RunBloodData.java
-├── People in School/
+├── People in School
 │   └── CollegeList.java
 │   └── Person.java
 │   └── Employee.java
