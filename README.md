@@ -9,6 +9,7 @@ Welcome to my academic repository! This repository serves as a centralized hub f
 | Project / Topic | Language / Tech Stack | Description | Directory |
 | :--- | :--- | :--- | :--- |
 | **Blood Bank** | Java | Java-based OOP console application for blood type data logging | [`Blood Bank`](#) |
+| **People in School** | Java | Java OOP inheritance project managing students, faculty, and employee records | [`People in School`](#) |
 
 ---
 
@@ -55,6 +56,12 @@ School-Projects/
 ├── Blood Bank/
 │   └── BloodData.java
 │   └── RunBloodData.java
+├── People in School/
+│   └── CollegeList.java
+│   └── Person.java
+│   └── Employee.java
+│   └── Faculty.java
+│   └── Student.java
 └── README.md
 ```
 
