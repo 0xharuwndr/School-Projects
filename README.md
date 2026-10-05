@@ -10,6 +10,7 @@ Welcome to my academic repository! This repository serves as a centralized hub f
 | :--- | :--- | :--- | :--- |
 | **Blood Bank** | Java | Java-based OOP console application for blood type data logging | [`Blood Bank`](#) |
 | **People in School** | Java | Java OOP inheritance project managing students, faculty, and employee records | [`People in School`](#) |
+| **Amount Due** | Java | Java program demonstrating method overloading for tax and total payment calculations | [`Amount Due`](#) |
 
 ---
 
@@ -62,6 +63,9 @@ School-Projects
 │   └── Employee.java
 │   └── Faculty.java
 │   └── Student.java
+├── Amount Due
+│   └── RunAmountDue.java
+│   └── AmountDue.java
 └── README.md
 ```
 
