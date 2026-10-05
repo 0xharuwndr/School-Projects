@@ -8,7 +8,7 @@ Welcome to my academic repository! This repository serves as a centralized hub f
 
 | Project / Topic | Language / Tech Stack | Description | Directory |
 | :--- | :--- | :--- | :--- |
-| **Blood Bank** | Java | Java-based OOP console application for blood type data logging | [`Blood Bank Data`](#) |
+| **Blood Bank** | Java | Java-based OOP console application for blood type data logging | [`Blood Bank`](#) |
 
 ---
 
@@ -52,7 +52,7 @@ Make sure you have installed the runtime environments or compilers required for 
 
 ```text
 School-Projects/
-├── Blood Bank Data/
+├── Blood Bank/
 │   └── BloodData.java
 │   └── RunBloodData.java
 └── README.md
