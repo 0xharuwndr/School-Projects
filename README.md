@@ -8,13 +8,13 @@ Welcome to my academic repository! This repository serves as a centralized hub f
 
 | Project / Topic | Language / Tech Stack | Description | Directory |
 | :--- | :--- | :--- | :--- |
-| **Blood Bank** | Java | Java-based OOP console application for blood type data logging | [`/Blood Bank Data`](#) |
+| **Blood Bank** | Java | Java-based OOP console application for blood type data logging | [`Blood Bank Data`](#) |
 
 ---
 
 ## 🛠️ Languages & Tools Used
 
-- **Programming Languages:** Python, Java, C#, C++
+- **Programming Language:** Java
 - **Version Control:** Git, GitHub
 - **Development Tools:** VS Code, Visual Studio, NetBeans
 
