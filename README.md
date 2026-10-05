@@ -8,10 +8,7 @@ Welcome to my academic repository! This repository serves as a centralized hub f
 
 | Project / Topic | Language / Tech Stack | Description | Directory |
 | :--- | :--- | :--- | :--- |
-| **Calculators** | C#, Java, Python | Multi-language command-line calculator implementations | [`/Calculators`](#) |
-| **Inventory Manager** | C# / Java / Python | System for managing products, tracking stock, and inventory | [`/Inventory-Manager`](#) |
-| **Simple ATM** | C# / Java / C++ | Terminal-based ATM simulator featuring basic banking functions | [`/Simple-ATM`](#) |
-| *Activity [X]* | *[Language]* | *Brief description of the assignment or lab task* | [`/Activity-01`](#) |
+| **Blood Bank** | Java | Java-based OOP console application for blood type data logging | [`/Blood Bank Data`](#) |
 
 ---
 
@@ -19,7 +16,7 @@ Welcome to my academic repository! This repository serves as a centralized hub f
 
 - **Programming Languages:** Python, Java, C#, C++
 - **Version Control:** Git, GitHub
-- **Development Tools:** VS Code, Visual Studio, IntelliJ IDEA, Eclipse
+- **Development Tools:** VS Code, Visual Studio, NetBeans
 
 ---
 
@@ -37,7 +34,7 @@ Make sure you have installed the runtime environments or compilers required for 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/0xharuwndr/School-Projects.git
+   git clone https://github.com/0xharuwndr/School-Projects
    cd School-Projects
    ```
 
@@ -55,11 +52,9 @@ Make sure you have installed the runtime environments or compilers required for 
 
 ```text
 School-Projects/
-├── Activity-01-Calculators/
-├── Activity-02-InventoryManager/
-├── Activity-03-SimpleATM/
-├── Final-Project/
-├── .gitignore
+├── Blood Bank Data/
+│   └── BloodData.java
+│   └── RunBloodData.java
 └── README.md
 ```
 
